@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "839770731538",
+    "project_id": "velora-brew",
+    "storage_bucket": "velora-brew.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839770731538:android:ef44daebbd7e93823354cb",
+        "android_client_info": {
+          "package_name": "com.example.velora_brew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0UUZN76_zblvODG_0Mmbhdal-dc_Nzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839770731538:android:299e04bc24080d3c3354cb",
+        "android_client_info": {
+          "package_name": "com.velorabrew.cafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0UUZN76_zblvODG_0Mmbhdal-dc_Nzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
